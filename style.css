@@ -1,0 +1,124 @@
+.wholeMain{
+   /* border: solid 1px;
+    margin: 30%, 20%;
+    border-color: black;
+    background-color: white;*/
+}
+#navbar{
+    border: 2px;
+    border-color: lightslategray;
+    background-color: rgb(4, 4, 12);
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+#subheader{
+    background-image: url('/images/background\ shoe.jpeg');
+    background-repeat: no-repeat;  
+    background-size: cover;
+    position: absolute;
+    margin-left: 300px;
+    border: solid 1px;
+    border-radius: 20px;
+    background-size: 100% 100%;
+    height: 250px;
+    margin-bottom: 0px;
+    padding-left: 800px;
+    }
+#contento{
+    margin-top: 75px;
+}
+#statement{
+    text-decoration-color: aliceblue;
+    text-align: start;
+    margin-left: 30px;
+    color: rgb(130, 165, 201);
+}
+#pill{
+    width: 30%;
+    border: 1px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: rgb(36, 35, 35);
+    padding: 13px, 20px;
+    float: right;
+    
+}
+#myWord{
+   margin-left: 30px; 
+   margin-top: 80px;
+   
+}
+#myDiv{
+    margin-left: 300px;
+    border: solid 1px;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    margin-right: 150px;
+    
+}
+#magic{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+#shoerow{
+    position: static;
+
+}
+#eye{
+   width: 7%;
+   padding: 20px, 40px;
+   margin-left: 250px;
+   color: white;
+   background-color: rgb(28, 28, 32);
+   border-radius: 10px;
+}
+#division{
+    margin-left: 300px;
+    border: solid 1px;
+  border-radius: 20px;
+  margin-right: 100px;
+}
+#twoSen{
+    display: flex;
+    justify-content: space-evenly;
+}
+#boLdy{
+    margin-right: 950px;
+}
+#oneClick{
+      background-color: rgb(28, 28, 32); 
+      color: white;
+      margin-left: 150px;
+      padding: 20px, 40px;
+      border-radius: 10px;
+      width: 20%;
+}
+#divisiontwo{
+  display: flex; 
+  
+}
+#themShoes{
+    
+}
+#ruby{
+margin-left: 900px;
+}
+#divisionfour{
+   /*border: solid 1px;
+   border-radius: 20px;
+   margin-left: 300px;
+   margin-right: 100px;*/
+   
+}
+#presS{
+    border: solid 1 px;
+    border-radius: 5px;
+    padding: 20px, 40px;
+    width: 20%;
+    margin-left: 150px;
+}
+#rowP{
+
+}
