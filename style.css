@@ -1,6 +1,6 @@
 .wholeMain{
    border: solid 1px;
-    margin: 30%, 20%;
+    margin: 100%, 90%;
     border-color: black;
     background-color: white;*}
 #navbar{
@@ -55,7 +55,8 @@
     margin-top: 50px;
     padding-bottom: 20px;
     margin-right: 150px;
-     background-color: aqua a;
+     background-color: aqua;
+    
 }
 #magic{
     margin-left: 150px;
@@ -78,6 +79,7 @@
     border: solid 1px;
   border-radius: 20px;
   margin-right: 100px;
+  background-color: rgb(55, 153, 128);
 }
 #twoSen{
     display: flex;
@@ -96,10 +98,12 @@
 }
 #divisiontwo{
   display: flex; 
+  justify-content: space-evenly;
   
 }
 #themShoes{
-    
+    display: flex;
+    justify-content: space-evenly;
 }
 #ruby{
 margin-left: 900px;
@@ -109,7 +113,7 @@ margin-left: 900px;
    border-radius: 20px;
    margin-left: 300px;
    margin-right: 100px;
-   background-color: beige;
+   background-color: rgb(196, 26, 120);
 }
 #presS{
     color: white;
